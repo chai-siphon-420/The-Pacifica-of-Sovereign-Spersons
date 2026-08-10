@@ -1,0 +1,177 @@
+Greenway Coinage Act — Constitutional Monetary Algorithm Edition
+House Bill 222 (Silver Standard Revision)
+Ratified Fiscal Charter — Perpetual Monetary Framework
+
+—
+
+PREAMBLE
+
+Recognizing that stable money must derive from an objective and non-political standard rooted in physical reality, the Republic of Greenway hereby establishes a constitutional monetary system grounded in measurable silver weight and governed by transparent mathematical rule rather than discretionary authority.
+
+The purpose of this Act is to preserve purchasing stability, prevent arbitrary debasement, and ensure that all issued currency represents redeemable economic substance.
+
+—
+
+ARTICLE I — MONETARY UNIT OF ACCOUNT
+
+The fundamental unit of value of the Republic of Greenway shall be silver mass.
+
+The constitutional reference unit shall be defined as:
+
+One Troy Ounce of Fine Silver (31.1034768 grams).
+
+All monetary valuation, issuance, and redemption shall ultimately resolve into silver weight equivalence.
+
+—
+
+ARTICLE II — THE GREENWEGIAN DOLLAR
+
+The official circulating monetary unit shall be the Greenwegian Dollar (GD).
+
+One Greenwegian Dollar, known as the “Silverback,” shall equal:
+
+21.6 grams of fine silver.
+
+This ratio is permanent and shall not be altered except by constitutional amendment.
+
+The Silverback coin shall consist of:
+ninety (90) percent (%) silver PLUS (+) ten (10) percent (%) copper in alloy.
+
+Total coin weight shall approximate 24 grams.
+
+Silverbacks shall exist as minted circulating coinage.
+
+—
+
+ARTICLE III — CONSTITUTIONAL SILVER RATIO
+
+All Treasury-issued monetary instruments shall derive value exclusively through conversion into silver weight.
+
+For any commodity C:
+
+GD value of C = (Market Silver Price per Unit of C) ÷ (21.6 grams silver)
+
+Where market price is defined as the rolling annual mean global exchange value measured in silver weight.
+
+Thus:
+Silver defines value.
+Commodities float relative to silver.
+The currency remains constant.
+
+—
+
+ARTICLE IV — MONETARY ALGORITHM
+
+The Treasury shall maintain an open-source, automated Constitutional Monetary Algorithm (CMA), operating under the following rules:
+
+1. At the conclusion of each fiscal year, the Treasury shall compute the average global exchange ratios between silver and each reserve commodity.
+
+2. The algorithm shall determine updated redemption quantities such that:
+
+Each Greenwegian Dollar always equals 21.6 grams silver equivalent, referenced to the bullion value of a .999fine 1oz (troy) silver round.
+
+3. Commodity redemption quantities shall automatically adjust without legislative action.
+
+4. Adjustments shall take effect on the first day of the new fiscal year.
+
+No officer of government may override algorithmic outputs except under constitutional emergency authority ratified by supermajority referendum.
+
+—
+
+ARTICLE V — RECOGNIZED RESERVE COMMODITIES
+
+The Treasury may maintain reserves in diversified commodities including but not limited to:
+
+A. Silver (Primary Anchor)
+B. Copper (Industrial Reserve)
+C. Cannabis (Agricultural Reserve)
+D. Greencash Cryptocurrency (Digital Reserve)
+
+These commodities shall not define the dollar independently but shall be redeemable according to their calculated silver equivalence.
+
+—
+
+ARTICLE VI — REDEMPTION FORMULA
+
+At any time, holders of Greenwegian Dollars may redeem currency for reserve commodities according to the Constitutional Monetary Algorithm:
+
+Redeemable Quantity of Commodity =
+(21.6 grams silver) ÷ (Silver price of commodity unit)
+
+Example form:
+
+If X grams of copper equal 1 gram of silver, then:
+
+GD copper redemption amount = 21.6 × X grams.
+
+Thus all redemption remains mathematically consistent and arbitrage-neutral.
+
+—
+
+ARTICLE VII — CURRENCY ISSUANCE
+
+Currency issuance shall be limited by aggregate silver-equivalent reserves.
+
+Total GD in circulation shall never exceed total Treasury reserves measured in silver weight equivalence.
+
+The Treasury shall publish continuously updated reserve ratios verified through public cryptographic audit.
+
+—
+
+ARTICLE VIII — DENOMINATIONS
+
+Sub-denominations shall include:
+
+Half (0.5)
+Quarter (0.25)
+Dime (0.1)
+Nickel (0.05)
+Penny (0.01)
+Half-cent (0.005)
+Mill (0.001)
+
+Sub-denominations may exist as notes or digital entries (debit), or as their Asset-Backed Cryptocurrency equivalent.
+
+—
+
+ARTICLE IX — TREASURY OPERATIONS
+
+The Treasury is authorized to:
+
+• Mint silver coinage.
+• Store bullion reserves.
+• Operate agricultural and industrial reserve production.
+• Maintain cryptocurrency mining infrastructure.
+• Trade commodities to preserve reserve balance.
+
+All acquisitions shall be evaluated solely by silver-equivalent contribution to reserves.
+
+—
+
+ARTICLE X — STABILITY PRINCIPLE
+
+Because silver weight remains constant while commodity ratios fluctuate, this system guarantees:
+Automatic inflation resistance.
+Automatic deflation correction.
+Market-driven commodity valuation.
+Elimination of political price fixing.
+
+The value of money shall remain stable because its definition does not change.
+
+—
+
+ARTICLE XI — TRANSPARENCY
+
+All algorithm inputs, calculations, and reserve balances shall be publicly accessible.
+
+The Constitutional Monetary Algorithm shall be open-source and independently verifiable.
+
+—
+
+ARTICLE XII — LEGAL STATUS
+
+Greenwegian Dollars shall constitute lawful money of the Republic of Greenway and shall be accepted for settlement of all debts, public and private, redeemable upon demand for their receipt in commodity it is guaranteed for in direct and full reserve.
+
+—
+
+END OF ACT

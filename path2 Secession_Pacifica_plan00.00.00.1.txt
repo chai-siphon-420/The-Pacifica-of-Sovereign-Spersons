@@ -1,0 +1,43 @@
+Proposed Secession Procedure for States, Provinces, and Territories
+https://pacificaplan.wordpress.com/
+
+Preamble
+We, the sovereign People of Pacifica, reaffirm that all legitimate political authority derives from the free consent of the governed. In the spirit of individual autonomy, local self‐determination, and respect for natural law, this proposal provides a clear, bottom‐up mechanism by which any existing State, Province, or Territory (“Member Entity”) may join the Federation of Pacifica. In recognition that ultimate sovereignty rests with each community, this proposal requires direct, county‐level (or equivalent census division) consent. It is consistent with Pacifica’s foundational values of decentralization, voluntary association, and transparency in governance.
+
+Section 1. Definitions
+1.1  “Member Entity” means any State, Province, or Territory currently outside the jurisdictional boundaries of Pacifica that petitions to join as a constituent member.
+1.2  “County” (or “Census Division”) refers to the primary local governmental unit within a Member Entity whose boundaries are established by that Member Entity’s governing laws.
+1.3  “County Vote” is the act of a majority of eligible voters, meeting in free and fair referendum at the County level, indicating “Yes” or “No” on joining Pacifica.
+1.4  “Qualified County” means any County in which at least a simple majority of eligible local voters participate in the referendum.
+
+Section 2. Initiation of Secession Referendum
+2.1  Any Member Entity may initiate a Secession Referendum upon presenting a petition, bearing signatures of at least five percent (5%) of eligible voters across its Counties, to the Pacifican National Electoral Council (“CNEC”). The petition text shall specify the Member Entity’s desire to join the Federation of Pacifica under this proposal.
+2.2  Upon validation of the petition, the CNEC shall fix a period of no fewer than ninety (90) days and no more than one hundred eighty (180) days—measured from official proclamation—to conduct simultaneous County Votes in every County (or Census Division) of the Member Entity.
+
+Section 3. County‐Level Referendum Procedure
+3.1  In each County of the Member Entity, a free, public‐ballot referendum shall be held. Each County shall be entitled to a single, unitary vote. If more than fifty percent (50%) of all valid ballots cast within a County are marked “Yes,” that County’s one vote is recorded as “Affirmative.” Otherwise, that County’s one vote is recorded as “Negative.”
+3.2  To be deemed “Qualified,” a County must have turnout equal to at least ten percent (10%) of its eligible voters. Unqualified Counties—those failing to meet the turnout threshold—shall be counted as “Negative” in any total.
+3.3  The votes of all Counties shall be reported to the CNEC within seven (7) days of the referendum’s close. All reporting must be certified by each County’s official electoral board in a manner consistent with Pacifica’s principles of transparency and open‐source auditing.
+
+Section 4. Threshold for Admission
+4.1  A Member Entity may join the Federation of Pacifica if, and only if, at least three‐quarters (¾) of its total Counties (or Census Divisions) record an “Affirmative” vote.
+4.2  As soon as the CNEC verifies that the three‐quarters (¾) threshold is met—even if some Counties voted “No”—the Member Entity is deemed to have joined Pacifica. All Counties within that Member Entity, including any that voted “No,” shall thereupon be recognized as constituent parts of Pacifica for all constitutional purposes.
+4.3  If fewer than three‐quarters (¾) of Counties vote “Affirmative,” the entire referendum is void. The Member Entity remains outside Pacifican jurisdiction until a new petition and referendum process is initiated under Section 2.
+
+Section 5. Timeline and Certification
+5.1  Within thirty (30) days of each County’s official certification of results, the CNEC shall publish a definitive report, listing each County’s vote and certifying whether the Member Entity has met the required three‐quarters (¾) threshold.
+5.2  If certified, the Member Entity’s date of effective accession shall be the date the CNEC publishes the final report.
+5.3  If certification fails due to a tie or insufficient Counties meeting turnout thresholds, the CNEC shall notify the Member Entity and may provide guidance on repeating the petition once per calendar year.
+
+Section 6. Effect of Accession
+6.1  Upon accession, the Member Entity and all its constituent Counties eventually become subject to the Constitution of Pacifica and gain all rights, privileges, and responsibilities thereof.
+6.2  All preexisting laws in the Member Entity remain in force unless they directly conflict with the Pacifican Constitution or are superseded by duly enacted Pacifican legislation. Any conflicting law is null and void.
+6.3  The Member Entity shall be entitled to full representation in the Pacifican National Congress, in accordance with Pacifican apportionment rules, beginning in the next legislative session after the date of accession.
+
+Section 7. Preservation of Individual and Local Sovereignty
+7.1  Nothing in this Amendment shall rescind or diminish any natural or unalienable right guaranteed by the Pacifican Constitution, including the right of Counties or individuals to petition for exemption from particular policies so long as they do not infringe the fundamental rights of others.
+7.2  No County or local subdivision may be coerced by State, Provincial, or Territorial authorities into participating in a referendum for which it is not eligible, nor may any County’s vote be invalidated for any reason other than failure to meet the turnout requirement.
+
+Section 8. Non‐Interference with Voluntary Association
+8.1  Pacifica explicitly disavows any use of force, coercion, or compulsion in the admission process. Each County’s choice to vote “Yes” or “No” must be entirely free and uncoerced.
+8.2  No Member Entity, County, or third party—public or private—may intervene in any stage of the referendum with threats, bribes, or the illegal withholding of information. Any individual or entity found to have tampered with the referendum process shall be subject to civil and criminal prosecution under Pacifican law.
